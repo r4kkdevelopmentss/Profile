@@ -1,4 +1,4 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=180&section=header&text=Equipe DE Dev's&fontSize=30&fontColor=fff&animation=twinkling&fontAlignY=35"/> 
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=180&section=header&text=Equipe: The Dev's&fontSize=30&fontColor=fff&animation=twinkling&fontAlignY=35"/> 
  
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+SOMOS+UM+GRUPO+DESENVOLVIMENTO+WEB+;SOMOS+UMA+EQUIPE+COMPOSTA+POR+5+PESSOAS;SOMOS+DE+LONDRINA,+PR;+:%29)](https://git.io/typing-svg)
 
